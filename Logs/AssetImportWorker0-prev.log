@@ -136,3 +136,28 @@ Received Import Request.
 Start importing Assets/unknown.png using Guid(b16d2d333634bee4d8711a3ce6534201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875afab11cb4a72ebbe9ff69c58e4b22') in 0.152198 seconds 
   Import took 0.157454 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 260.205662 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(bbbc74fad6ed1d243aee6102298f428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(bbbc74fad6ed1d243aee6102298f428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f5d9c482259fc97b3f344a61ab00ed') in 0.010153 seconds 
+  Import took 0.015922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 604.710079 seconds.
+  path: Assets/Scenes/rx7baran.jpg
+  artifactKey: Guid(1524bdfb11bdcf04992c68a12263fee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/rx7baran.jpg using Guid(1524bdfb11bdcf04992c68a12263fee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d939da4e495ed7d9fcbb1b6955d60ff') in 0.024545 seconds 
+  Import took 0.029591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.582993 seconds.
+  path: Assets/Scenes/unknown.prefab
+  artifactKey: Guid(9c843adbbc6f1cf4289cf8e851214ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/unknown.prefab using Guid(9c843adbbc6f1cf4289cf8e851214ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5615e4ba31c7da85fb5606c898d865b') in 0.053751 seconds 
+  Import took 0.058303 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
